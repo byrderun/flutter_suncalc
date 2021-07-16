@@ -1,6 +1,6 @@
-# flutter_suncalc
+# byrd_dart_suncalc
 
-A port of the suncalc library from https://github.com/mourner/suncalc
+A byrd fork of the flutter_suncalc port of the suncalc library from https://github.com/mourner/suncalc in order to ensure stability and the ability to add custom byrd features.
 
 This code is based on the original Javascript suncalc by Vladimir Agafonkin ("mourner").
 
