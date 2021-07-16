@@ -5,15 +5,13 @@ author: Shaun Meredith <support@infobridge.net>
 homepage: https://github.com/shanus
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
+
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
+  build_runner: ^1.10.0
 
 
 # The following section is specific to Flutter.
